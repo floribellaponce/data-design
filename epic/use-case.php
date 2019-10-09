@@ -16,10 +16,10 @@
 	<strong>Description: </strong> User will have the ability to create a dog profile with dogs information on website
 </p>
 <p>
-	<strong> Name of user: </strong> Alexander Gonzalez & Paramedic
+	<strong> Name of user: </strong> Alexander Gonzalez
 </p>
 <p>
-	<strong> Users role: </strong> Advance Paramedic
+	<strong> Users role: </strong> Advanced Paramedic
 </p>
 <p>
 	<strong>Usage preconditions: </strong> User has never accessed website before and needs to create a profile for his dog(s).
