@@ -5,7 +5,7 @@
 	<title>Persona</title>
 	<link rel="stylesheet" href="style.css">
 </head>
-<body bgcolor="#d8bfd8">
+<body bgcolor="#afeeee">
 <div align="center">
 	<header><strong>Persona</strong></header>
 </div>
@@ -13,33 +13,27 @@
 	<div class="column">
 		<header><strong>User</strong></header>
 		<p>
-			Floribella is 27 year old who is currently attending a development bootcamp. When she is not attending the bootcamp she is
-			communiting to work via bicycle or bus, cooking, taking care of her sister, and playing with her four dogs. The mayority of her
-			time is spent with her dogs since taking care of 4 dogs requires a lot of work and attention. Floribella has been a dog lover ever since she could
-			remember. She is the go to person for when her friends/family have lost their dog or have found a dog. She has also encountered lost dogs herself
-			in which she takes into her house until the owner appears. But due to her busy days she is unable to help every dog she encounters.
+			Alexander is a full time advanced paramedic. He works in 12hr to 24 hr increments. On his time off he likes to volunteer at dog shelters, hike, and take a
+			variety of different courses at a community college. He does not spend time on the web nor keeping up with technology, other than medical technology.
+			He, along with his 2 dogs, recently moved to a new town were he does not know anyone. Alexander is always busy and does not socialize much. Alexander
+			needs a way to easily and quickly create and share a missing dog profile incase one of his dogs does missing.
 		</p>
 		<header><strong>Frustrations</strong></header>
 		<ul>
 			<li>Busy schedule</li>
 			<li>Inefficient time consuming tools</li>
 			<li>Unable to access desktop at all times</li>
-			<li> Unable to help every dog</li>
 		</ul>
 		<header><strong>Needs</strong></header>
 		<ul>
-			<li>Ability to access sites on mobile devices</li>
+			<li>Ability to access site on mobile devices</li>
 			<li>Ability to create a profile quickly</li>
 			<li>Ability to share via link</li>
 			<li>Ability to export into pdf</li>
 		</ul>
-		<p>
-			<em>Floribella has experienced scares due to her dogs gone missing or a friends/family's dog having gone missing.
-				Because of this Floribella has decided to start using our site in hopes of an efficient way to help her and her pets.</em>
-		</p>
 	</div>
 	<div class="column">
-		<img src="images/bella.jpg" alt="user image" style="width:400px;height=500px;">
+		<img src="images/SBS-L-RAMPART-0930-02.jpg" alt="user image" style="width:500px;height=420px;">
 	</div>
 </div>
 <div>
