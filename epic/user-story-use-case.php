@@ -5,7 +5,7 @@
 	<title>User Story and Use Case</title>
 	<link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body bgcolor="#d8bfd8">
 <div align="center">
 	<header><strong>User Story</strong></header>
 </div>
@@ -54,5 +54,9 @@
 			</li>
 		</ol>
 	</div>
+</div>
+<div>
+	<button><a href="index.php">Go back</a></button>
+</div>
 </body>
 </html>

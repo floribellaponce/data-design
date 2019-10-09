@@ -5,7 +5,7 @@
 	<title>Persona</title>
 	<link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body bgcolor="#d8bfd8">
 <div align="center">
 	<header><strong>Persona</strong></header>
 </div>
@@ -39,7 +39,11 @@
 		</p>
 	</div>
 	<div class="column">
-		<img src="images/bella.jpg" atl="user image" style="width:400px;height=500px;">
+		<img src="images/bella.jpg" alt="user image" style="width:400px;height=500px;">
 	</div>
 </div>
+<div>
+	<button><a href="index.php">Go back</a></button>
+</div>
+</body>
 </html>
