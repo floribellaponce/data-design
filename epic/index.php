@@ -12,6 +12,7 @@
 		<button><a href="persona.php">PERSONA</a></button>
 		<button><a href="user-story.php">USER STORY</a></button>
 		<button><a href="use-case.php">USE CASE</a></button>
+		<button><a href="conceptual-model.php">CONCEPTUAL MODEL</a></button>
 		</div>
 </div>
 </body>
