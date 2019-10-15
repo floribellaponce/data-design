@@ -43,7 +43,7 @@
 </ul>
 <h1 align="center">Entity Relationship Diagram</h1>
 <div align="center">
-	<img src="images/ERD-DataDesign-Phase2%20(2).png" alt="ERD" style="width:1200px;height:550px;">
+	<img src="images/ERD-DataDesign-Phase2%20(3).png" alt="ERD" style="width:1200px;height:550px;">
 </div>
 <div>
 	<button><a href="index.php">Go back</a></button>
