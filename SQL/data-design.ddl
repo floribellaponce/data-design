@@ -11,7 +11,6 @@ create table `user`(
 	userAddress VARCHAR(100) not null,
 	userPhoneNumber VARCHAR(15),
 	userEmail VARCHAR(255) not null,
-	unique(userId),
 	-- making attribute unique to ensure emails does not duplicate.
 	unique(userEmail),
 	-- this officiates the primary key for this table.
@@ -29,7 +28,6 @@ create table dog(
 	dogImage VARCHAR(255) not null,
 	dogExtraComments VARCHAR(255),
 	dogUserId BINARY(16) not null,
-	unique(dogId),
 	index(dogName),
 	-- this is the index for the foreign key to improve join performance between tables.
 	index(dogUserId),
